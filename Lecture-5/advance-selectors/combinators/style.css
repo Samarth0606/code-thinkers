@@ -1,0 +1,35 @@
+/* div >  div > div > h1{
+    color: red;
+}
+
+div   div  div  h1{
+    color: red;
+} */
+
+/* ---------------------------------- */
+
+/* child */
+/* div > article > div{
+    background-color: teal;
+} */
+/* decen */
+/* div article div{
+    background-color: teal;
+} */
+
+/* ---------------------------------- */
+/* adcent */
+/* article > div > h1 + p{
+    color: red;
+} */
+
+/* general */
+/* article > div> h1 ~ p{
+    color: green;
+} */
+
+/* ------- */
+
+/* article div h1{}
+article h1{}
+div h1{} */

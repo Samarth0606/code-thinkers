@@ -1,0 +1,39 @@
+/* element selector */
+
+/* pehredaar = guard -> h1 -> h1... -> entry -> p ❌ */
+/* h1{
+    color: red;
+} */
+
+/* ---------------- */
+/* id selector */
+
+/* #sam{
+    color: blue;
+} */
+
+
+/* ---------------- */
+/* class selector */
+
+/* .samarth{
+    color: green;
+} */
+
+/* ---------------- */
+/* attribute selector */
+/* a[href="http://instagram.com"]{
+    font-size: 100px;
+}
+
+input[type="text"]{
+    background-color: yellow;
+} */
+
+/* -----------------*/
+/* universal selector => every element including html body */
+
+/* shorthand property */
+/* *{
+    border: 2px solid black;
+} */

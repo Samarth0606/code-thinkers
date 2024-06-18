@@ -1,0 +1,8 @@
+/* external style */
+/* selector */
+h1{
+    color: chocolate;
+    background-color: lightblue;
+    font-size: 50px;
+    text-decoration: underline;
+}
