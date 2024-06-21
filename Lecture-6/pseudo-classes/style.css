@@ -1,0 +1,47 @@
+/* h1{
+    color: red;
+    background-color: yellow;
+} */
+
+/* h1:hover{
+    color: blueviolet;
+    background-color: bisque;
+    cursor:pointer; 
+} */
+
+/* ------------- */
+
+/* a{
+    background-color: antiquewhite;
+}
+a:active{
+    background-color: blueviolet;
+    font-size:100px ;
+} */
+
+/* ------------- */
+
+/* li:nth-of-type(6) , 
+li:nth-of-type(3) ,
+li:nth-of-type(8) {
+    color: red;
+    font-size: 50px;
+} */
+
+
+/* li:nth-of-type(odd){
+    color: red;
+}
+li:nth-of-type(even){
+    color: blue;
+} */
+
+/* li:nth-of-type(3n){
+    color: orange;
+} */
+
+/* 6 => offfset */
+/* 3 => mutiplication factor */
+li:nth-of-type(3n + 6){
+    color: orange;
+}

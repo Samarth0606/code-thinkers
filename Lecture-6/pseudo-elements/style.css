@@ -1,0 +1,27 @@
+
+
+
+
+p{
+    font-family: cursive;
+}
+
+p::first-line{
+    font-family: monospace;
+}
+
+p::first-letter{
+    color: green;
+    background-color: yellow;
+    font-size: 50px;
+}
+
+h3::after{
+    /* content: " mai kuch bhi kar sakta hu"; */
+    content: '\1F972'; /* backslash */
+}
+
+h3::before{
+    /* content: " mai kuch bhi kar sakta hu"; */
+    content: '\1F929'; /* backslash */
+}

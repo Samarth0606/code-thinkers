@@ -1,0 +1,14 @@
+h1{
+    color: rgb(255 , 0 , 0);
+}
+/* alpha channel -> 0-1 => 1 => 100% , 0 => ghanta kuch nazar ni aega */
+h2{
+    color: rgba(255 , 0 , 0 , 0.5);
+}
+
+h3{
+    color: #ff00aa;
+}
+h4{
+    color: #ff00aaff; /*not recommended => it exists => 0-1 => 0-f*/
+}

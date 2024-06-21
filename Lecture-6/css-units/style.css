@@ -1,0 +1,43 @@
+/* relative units */
+/* % */
+
+/* h1{
+    width: 50%;
+    background-color: red;
+}
+
+section{
+    width: 500px;
+    background-color: greenyellow;
+} */
+
+/* -------------- */
+
+/* snowball effect */
+/* ul > li{ 
+    font-size: 2em;
+    font-size: 2rem; 
+} */
+
+/* -------------- */
+
+/* inheritance */
+ol>li{
+    border: 2px solid black; /* inherit ❌ */
+    color: red; /* inherit ✅ */
+    font-size: 40px; /* inherit ✅ */
+}
+
+/* ------------------ */
+/* viewport =>  */
+section{
+    background-color: red;
+    width: 50vw;
+    height: 50vh;
+}
+
+
+
+
+
+
