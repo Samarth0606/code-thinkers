@@ -1,0 +1,15 @@
+:root{
+    --blue-color-ka-var: blue;
+    --red-color-ka-var: red;
+    --orange-color-ka-var: orange;
+}
+
+#h1{
+    color: var(--blue-color-ka-var);
+}
+#h2{
+    color: var(--red-color-ka-var);
+}
+#h3{
+    color: var(--orange-color-ka-var);
+}
